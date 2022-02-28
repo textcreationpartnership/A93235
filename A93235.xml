@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The copie of a letter sent from Exeter, by a gentleman of quality, to a worthy friend of his dwelling in London. Shewing, how the enemy have besieged the said city, and how they lye quartered about it: with a true relation of a fight between the citizens and the cavaliers, wherein the citizens took 80. prisoners from them. Moreover how the Earl of Warwick arriving at a place called Apsom, sent to the high sheriffe to raise the county, which he denied; whereupon the Earl sent 3. or 4. small ships, who battered down a fort where the cavaleirs harboured, to the ground, and flew 60. or 70. of them. Together with other remarkable matters, of speciall note and consequence. This is entred into the register book of Stationers Hall, and printed according to order.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93235</idno>
+            <idno type="STC">Wing S37</idno>
+            <idno type="STC">Thomason E65_2</idno>
+            <idno type="STC">ESTC R295</idno>
+            <idno type="EEBO-CITATION">99872232</idno>
+            <idno type="PROQUEST">99872232</idno>
+            <idno type="VID">155384</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93235)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155384)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 11:E65[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The copie of a letter sent from Exeter, by a gentleman of quality, to a worthy friend of his dwelling in London. Shewing, how the enemy have besieged the said city, and how they lye quartered about it: with a true relation of a fight between the citizens and the cavaliers, wherein the citizens took 80. prisoners from them. Moreover how the Earl of Warwick arriving at a place called Apsom, sent to the high sheriffe to raise the county, which he denied; whereupon the Earl sent 3. or 4. small ships, who battered down a fort where the cavaleirs harboured, to the ground, and flew 60. or 70. of them. Together with other remarkable matters, of speciall note and consequence. This is entred into the register book of Stationers Hall, and printed according to order.</title>
+                  <author>I. S.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Bernard Alsop,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: I.S.</note>
+                  <note>reproduction of the original in the British Library.</note>
+                  <note>Annotation on Thomason copy reads: "Aug:11th".</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Warwick, Robert Rich, --  Earl of, 1587-1658.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155384:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 43 -->
+            <p>THE COPIE OF A LETTER Sent from EXETER, By a Gentleman of quality, to a worthy friend of his dwelling in <hi>London.</hi>
+            </p>
+            <p>
+               <hi>SHEWING,</hi> How the Enemy have beſieged the ſaid City, and how they lye quartered about it: With a true Relation of a Fight between the Citizens and the Gavaliers, wherein the Citizens took 80. Priſoners from them.</p>
+            <p>Moreover how the Earl of <hi>Warwick</hi> arriving at a place called <hi>Apſom,</hi> ſent to the high Sheriffe to raiſe the Coun<g ref="char:EOLhyphen"/>ty, which he denied; whereupon the Earl ſent 3. or 4. ſmall Ships, who battered down a Fort where the Cavaleirs harboured, to the ground, and ſlew 60. or 70. of them.</p>
+            <p>
+               <hi>Together with other Remarkable matters, of ſpeciall Note and conſequence.</hi>
+            </p>
+            <p>This is entred into the Regiſter Book of Stationers Hall, and Printed according to Order.</p>
+            <p>
+               <date>
+                  <add>Aug: 11<hi rend="sup">th</hi>
+                  </add>
+               </date>
+               <hi>London,</hi> Printed for <hi>Bernard Alſop.</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:155384:2"/>
+            <!-- PDF PAGE 44 -->
+            <pb n="1" facs="tcp:155384:2"/>
+            <!-- PDF PAGE 44 -->
+            <head>The true Copie of a Letter ſent from EXETER.</head>
+            <opener>
+               <salute>
+                  <seg rend="decorInit">S</seg>Ir,</salute>
+            </opener>
+            <p>the miſerable eſtate and con<g ref="char:EOLhyphen"/>dition of our City I conceive is ſufficiently known, yet there hath not any wayes, or meanes, beene neglected by our Major, Alder<g ref="char:EOLhyphen"/>men, and the reſt of thoſe worthy Citizens, who have been both vigilant and watchfull for preven<g ref="char:EOLhyphen"/>tion of danger; and although ſome part of this our Citie is ſurrounded (and by thoſe blood thirſty peo<g ref="char:EOLhyphen"/>ple which ſeek to deſtroy us, our lives, liberty, and Religion) yet we hope in due time to aſſwage their malice, and confound their devices.</p>
+            <p>There was lately a hot fight between us and our Enemy, and Cannons plaid on both ſides, but little or no hurt done, onel<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> we took eighty or thereabouts of them priſoners. Since which time, Sir <hi>William Courtney</hi> Commander in chief, Collonel, <hi>Actland</hi> Collonel <hi>Eulford,</hi> and the reſt of the Kings Partie,
+<pb n="2" facs="tcp:155384:3"/>
+               <!-- PDF PAGE 45 -->
+have laid at eaſe, eating and drinking up the ſweat of poore mens labours, the Cavalleres with their num<g ref="char:EOLhyphen"/>ber amounting neere upon three thouſand horſe and foot, lyeth at <hi>Apſom,</hi> Saint <hi>Thomas</hi> his Pariſh, <hi>Affing<g ref="char:EOLhyphen"/>ton,</hi> and the paſſage betweene <hi>Kirton</hi> and <hi>Exeter.</hi> As for the Eaſt and Southerne part we have free paſſage, and have daily great ſupplies of proviſion from <hi>Ti<g ref="char:EOLhyphen"/>verton, Silferton, Collompton,</hi> and <hi>Bradinch,</hi> but for how long this will ſo continue, God knowes, we feare not long, but ſuſpect that a greater force will ſhortly en<g ref="char:EOLhyphen"/>viron us from <hi>Briſtol,</hi> and ſo beſiege all parts. Wee ſtand onely upon our guard, and thinke it not fit to ſally out to raiſe the ſiege, for feare of being put to retreat and diſorder we ſhould not have ſufficient to manage our workes; as our enemy lyeth upon advan<g ref="char:EOLhyphen"/>tage, ſo we expect aide from <hi>Plimouth</hi> and <hi>Dartmouth,</hi> till which time here can be no iſſue of the buſineſſe. The Earle of <hi>Warwicke</hi> at his arrivall neere our Caſtle at <hi>Apſom,</hi> ſent a meſſage to the high Sheriffe, com<g ref="char:EOLhyphen"/>manding him to raiſe the Country upon the <hi>poſſe Co<g ref="char:EOLhyphen"/>mitatus,</hi> that thereby he might land men and ordnance, commanding him in the name of King and Parlia<g ref="char:EOLhyphen"/>ment to aſſiſt him to keepe the peace of the County, but the Sheriffe obſtinately refuſed it, ſaying hee would not obey his command, pretending hee had a Proclamation from his Majeſtie to the contrary: then my Lord ſent three or foure ſmall ſhips which batte<g ref="char:EOLhyphen"/>red downe a great Fort levell to the ground where the Cavalleres harboured, but left their freehold, as the Cavalleres terme it, with the loſſe of ſixty or ſeventy of them ſlaine: the Malignant priſoners, both Gentlemen and Clergy now in durance, were upon
+<pb n="3" facs="tcp:155384:3"/>
+               <!-- PDF PAGE 45 -->
+the Cavaliers beſieging our City very deboiſt, and mutinous, ſwearing they would burne and fire the houſes over their heads, and although I call them pri<g ref="char:EOLhyphen"/>ſoners, yet they had too much liberty, going and com<g ref="char:EOLhyphen"/>ming when and where they pleaſed, ſuch ingratefull parſons are worthy of reſtraint, and are rewarded ſince accordingly. At <hi>Ratford</hi> houſe, where the late Iudge <hi>Dodderidge</hi> lived, we have mounted 3. Peeces of Ord<g ref="char:EOLhyphen"/>nance, and fifty or ſixty Musketiers, to keepe the enemy from comming over the River, yet ſuch is their deſperateneſſe, that they attempt it daily, and come over robbing and ſtealing our horſe, ſheep, and cattle, and make ſuch ſpoil, that neither they nor their Com<g ref="char:EOLhyphen"/>manders have any feare of God, or rule of good man<g ref="char:EOLhyphen"/>ners. Sir <hi>Iohn Barkely</hi> a great Commander of the Ca<g ref="char:EOLhyphen"/>valiers, hath done very great ſpoil amongſt us, poſting to and fro with 150. horſe, impoſing upon the ſubject ſuch heavie taxations, that the ſubject cannot bear; their horſes and goods plundered, their perſons threat<g ref="char:EOLhyphen"/>ned, and impriſoned, and I think it is no newes to the world, that this County hath had its ſhare of troubles. For ſince the ſiege of <hi>Sherborn</hi> Caſtleful 14. months, when firſt Sir <hi>Ralph H<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pton</hi> tooke his flight in the North part of <hi>Somerſet,</hi> and ſo along the Sea coaſt till he came to <hi>Pendennis</hi> Caſtle, we have not been free of ſoldiers, and no ſmall number, but by thouſands, ſome<g ref="char:EOLhyphen"/>times 4 5 6 8. and 10000. ſtill in pay of our own par<g ref="char:EOLhyphen"/>ty, and at length came the rabble of Corniſh, and they ſwept the Country clean where they went, yea, and forced men to carry Arms, but they have done them as little ſervice as they did us at <hi>Modbury,</hi> when they all run before they came near the place.</p>
+            <pb n="4" facs="tcp:155384:4"/>
+            <!-- PDF PAGE 46 -->
+            <p>This diſtraction amongſt us wee have juſtly deſerved, and indeed it was ever con<g ref="char:EOLhyphen"/>trary to my deſire, that young <hi>Chidley,</hi> who is the chiefe cauſe of our troubles, ſhould have ſuch a place of authority, Serjeant Ma<g ref="char:EOLhyphen"/>jor Generall, a place of too much honour for a giddy youth; but ſuch is the wiſdom of many, that they thinke if a man ſpend a moneth, two or three in the wars of a for<g ref="char:EOLhyphen"/>raigne Nation, none like ſuch for experi<g ref="char:EOLhyphen"/>ence: but give me leave, honeſty is the beſt policy: wee have beene in all parts thus treacherouſly dealt withall, and I think no County ſuffered the like as we have by <hi>Chid<g ref="char:EOLhyphen"/>leyes</hi> revolt. It was not for his good condi<g ref="char:EOLhyphen"/>tions or experience we eſteem the loſſe, but the number of brave horſe, yea and moſt of the Earles owne horſe, which indeed is the onely ruine of the Weſtern parts. Yet God is all ſufficient, and we doubt not but hee will ſtrengthen us, as daily he doth; for ſince the ſurrendring of <hi>Briſtol,</hi> where within 24. houres after we heard the truth thereof, how the matter was caried, and upon what terms
+<pb n="5" facs="tcp:155384:4"/>
+               <!-- PDF PAGE 46 -->
+the ſouldiers and inhabitants ſhould depart, as in the Articles of agreement is largely expreſſed, none of which being performed, but the City rifled, yea, and all both fri<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd and ſo, though the Malignants to be known from others ſtucke greene boughes at their doores, and wore them in their hats; yet being all pillaged, the Malignants amongſt us knowing they ſhall taſte of the ſame ſauce, if the like occaſion happen to us as in <hi>Briſtol,</hi> begin to be well affected, and en<g ref="char:EOLhyphen"/>courageth the reſt, and at this preſent doe voluntarily as hard duty as a common ſoul<g ref="char:EOLhyphen"/>dier; ſo that thoſe Malignants amongſt us that are of ſtrength and ability, I am per<g ref="char:EOLhyphen"/>ſwaded, will ſhew themſelves more forward in this wrong Cauſe, as they terme it, for the love of their goods, then any other man amongſt us Therefore if any aſſiſtance come to us ſpeedily, we doubt not but to remove thoſe ill neighbours about us, and be at li<g ref="char:EOLhyphen"/>berty. I cannot certifie you with more then I have ſaid of the proceedings amongſt us, but wee have had lately intelligence from
+<pb n="6" facs="tcp:155384:5"/>
+               <!-- PDF PAGE 47 -->
+               <hi>Briſtol,</hi> that there is a Regiment or two upon their march, or ready to march at <hi>Dorcheſter</hi> and <hi>Waymouth,</hi> I ſee not how, or who ſhould reſiſt them; neither is it expected that there can be prevention given, unleſſe ſome conſiderable force be ſent downe to joyne with the Country, and to reſiſt and make head, there be<g ref="char:EOLhyphen"/>ing no more in theſe parts but onely thoſe ſmall for<g ref="char:EOLhyphen"/>ces we have under the command of Sir <hi>VValter Erle,</hi> which are more then ſufficiently matched with the Captaine of <hi>Corfe</hi> Caſtle: and certainly if there bee not a ſudden courſe taken, the enemy will be excee<g ref="char:EOLhyphen"/>dingly ſtrengthned, and all the Weſterne parts ruined and ſpoiled. Squire <hi>Rogers</hi> of <hi>Blanfora,</hi> one of the greateſt diſturbers of the peace in this County, is late<g ref="char:EOLhyphen"/>ly dead; he died of the ſmall pox, coming from <hi>Ox<g ref="char:EOLhyphen"/>ford.</hi> Thus praying to God to deliver us out of the hands of our oppreſſors, I reſt,</p>
+            <closer>
+               <signed>Your affectionate friend, <hi>I. S.</hi>
+               </signed>
+               <dateline>Exeter, <date>Aug. 3. 1643.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
